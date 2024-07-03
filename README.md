@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Deep learning 
 - 💞️ I’m looking to collaborate with open source projects
 - 📫 Reach me at salimshakeel098@gmail.com
-- 😄 Pronouns: salim
+- 😄 Pronouns: he/him
 
 <!---
 salimshakeel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
