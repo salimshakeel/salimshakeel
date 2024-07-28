@@ -10,7 +10,7 @@
 - **Open Source Projects**: As a strong advocate of open-source software, I am enthusiastic about contributing to and collaborating on open-source projects. I believe in the power of community-driven development and enjoy sharing knowledge, contributing code, and improving documentation. Whether it's enhancing an existing project or initiating a new one, I'm open to opportunities that allow me to work with like-minded individuals and make meaningful contributions to the tech community.
 
 ### 💼 Experience
-- **AI Intern at NUST TUKL (2023)**: Worked on various AI-driven projects, focusing on research and development in the field of artificial intelligence. Gained hands-on experience in machine learning algorithms, data analysis, and model deployment.
+- **AI Intern at NUST TUKL (2023)**: Worked on various AI-driven projects, focusing on research and development in the field of artificial intelligence. Gained hands-on experience in machine learning algorithms, data analysis.
 - **Deep Learning Intern at Rev9 Solutions (2024)**:
 1. **Deep Learning** : Fine-tuned the Whisper-small model, a transformer-based architecture designed for automatic speech recognition and translation tasks. This involved optimizing the model for specific datasets to improve accuracy and performance.
 2.  **Image Processing**: Worked on various projects involving image analysis, enhancement, and recognition, applying techniques such as convolutional neural networks (CNNs) and other computer vision methodologies.
