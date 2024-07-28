@@ -11,7 +11,10 @@
 
 ### 💼 Experience
 - **AI Intern at NUST TUKL (2023)**: Worked on various AI-driven projects, focusing on research and development in the field of artificial intelligence. Gained hands-on experience in machine learning algorithms, data analysis, and model deployment.
-- **Deep Learning Intern at Rev9 Solutions (2024)**: Developed deep learning models for various applications, including computer vision and natural language processing. Collaborated with a team of experts to optimize model performance and integrate AI solutions into production environments.
+- **Deep Learning Intern at Rev9 Solutions (2024)**:
+1. **Deep Learning** : Fine-tuned the Whisper-small model, a transformer-based architecture designed for automatic speech recognition and translation tasks. This involved optimizing the model for specific datasets to improve accuracy and performance.
+2.  **Image Processing**: Worked on various projects involving image analysis, enhancement, and recognition, applying techniques such as convolutional neural networks (CNNs) and other computer vision methodologies.
+3.  **Natural Language Processing (NLP)**: Contributed to tasks involving text analysis, sentiment analysis, and language modeling, leveraging transformer models and other advanced NLP techniques.
 
 ### 📂 Projects
 - **Customer Churn Prediction System**: Developed a comprehensive machine learning model to predict customer churn for a subscription-based service. Utilized various classification algorithms and implemented a robust feature engineering pipeline. The project involved data preprocessing, model training, evaluation, and deployment. [GitHub Repository](https://github.com/salimshakeel/Customer_churn-prediction_system)
